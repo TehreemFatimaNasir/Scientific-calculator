@@ -1,0 +1,285 @@
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\appsettings.json
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.staticwebassets.runtime.json
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.staticwebassets.endpoints.json
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.exe
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.deps.json
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.runtimeconfig.json
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\scientific calculator.pdb
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Humanizer.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.AssemblyInfo.cs
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.RazorAssemblyInfo.cs
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scopedcss\bundle\scientific calculator.styles.css
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scopedcss\projectbundle\scientific calculator.bundle.scp.css
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\0liv1vloxe-b9sayid5wm.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\2ov8ooklkp-61n19gt1b8.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\d8r2h2fhx8-xtxxf3hu2r.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\gkilfc9xfp-bqjiyaj88i.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\t4kokvc7ne-c2jlpeoesf.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\sb70frhq23-erw9l3u2r3.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\elizfecb6q-aexeepp0ev.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\156r82jfv0-d7shbmvgxk.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\vypxe7wac4-ausgxo2sd3.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\7hul0iexia-k8d9w2qqmf.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\3iwodkal0i-cosvhxvwiu.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\2tq9k48u19-ub07r2b239.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\7acc75gx5v-fvhpjtyr6v.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\fdqi1a0lz0-b7pk76d08c.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\g0erqo4b8g-fsbi9cje9m.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\vhsvdq8gm9-rzd6atqjts.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\p1lwbf9vas-ee0r1s7dh0.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\a9lmtii6mt-dxx9fxp4il.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\1ke0kkboua-jd9uben2k1.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\jo4xdqieh2-khv3u5hwcm.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\mdu8zyolx0-r4e9w2rdcm.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\aiyyjmchxs-lcd1t2u6c8.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\0i4n5r3i7l-c2oey78nd0.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\wiwy94dz0v-tdbxkamptv.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\q36n5f26nd-j5mq2jizvt.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\r5xpajr2p8-06098lyss8.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\akolsbi190-nvvlpmu67g.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\cxncwmnghf-s35ty4nyc5.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\telgojuu55-pj5nd1wqec.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\rlvk3rmwpw-46ein0sx1k.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\hdj024clt6-v0zj4ognzu.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\iaxaxe4o20-37tfw0ft22.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\a0an2l0whr-hrwsygsryq.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\cxnqigdqqh-pk9g2wxc8p.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\rt9bvh154e-ft3s53vfgj.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\ofw5uginu6-6cfz1n2cew.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\zianq9yh35-6pdc2jztkx.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\d645qujeeh-493y06b0oq.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\p5718jsut6-iovd86k7lj.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\9r3lpasua2-vr1egmr9el.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\96h46gu7u1-kbrnm935zg.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\d8rq60qyc0-jj8uyg4cgr.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\cyvmsnsli2-y7v9cxd14o.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\hpu0p84bzp-notf2xhcfb.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\fzmhnek8cy-h1s4sie4z3.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\t183ghofwk-63fj8s7r0e.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\edrr4d6qj6-0j3bgjxly4.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\v6b0tzp9v2-47otxtyo56.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\agve1rfimq-4v8eqarkd7.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\max4arn1rn-356vix0kms.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\u4cqug65ad-83jwlth58m.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\c6euth5o2m-mrlpezrjn3.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\g6xxx22x5d-lzl9nlhx6b.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\tn06dlu3gy-ag7o75518u.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\8ro1hmp1d8-x0q3zqp4vz.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\2hw5mpbwbf-0i3buxo5is.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\tzrymjsumv-o1o13a6vjx.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\zqg1i7kehh-ttgo8qnofa.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\5aa15ahywp-2z0ns9nrw6.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\e2epfpxo2p-muycvpuwrr.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\0uy7e5gz8l-87fc7y1x7t.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\p19doiq6kw-mlv21k5csn.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\yeu6jc85aq-1hovdacgn4.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\compressed\par005wmvz-1hovdacgn4.gz
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets\msbuild.scientific calculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets\msbuild.scientific calculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets\msbuild.build.scientific calculator.props
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.scientific calculator.props
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.scientific calculator.props
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientif.F696D515.Up2Date
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.dll
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\refint\scientific calculator.dll
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.pdb
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\scientific calculator.genruntimeconfig.cache
+C:\Users\dell\source\repos\scientific calculator\obj\Debug\net9.0\ref\scientific calculator.dll
